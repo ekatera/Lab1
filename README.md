@@ -1,4 +1,15 @@
+## INFO
+Jag är inte klar med projektet. Min intention är att användaren väljer en fil  
+och man läser alla glossor från filen. Sen får man öva på dem. Man ska kunna lägga
+till och ta bort glossor.  
+Jag har fastnat i att uppdatera setState.  
+Dvs jag läser in glossor men statet uppdateras inte. Jag googlat lite och det verkar vara
+problem med callback(). Jag försökte lösa den men inte lyckats.  
+Jag tänkte fortsätta med den.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
