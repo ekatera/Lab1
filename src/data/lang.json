@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "language": "english",
+        "numberOfWords": 10,
+        "name": "general_english.json" 
+    },
+    {
+        "id": 1,
+        "language": "germany",
+        "numberOfWords": 15,
+        "name": "general_english.json" 
+    },
+    {
+        "id": 2,
+        "language": "spanish",
+        "numberOfWords": 15,
+        "name": "cocina.json" 
+    }
+]
